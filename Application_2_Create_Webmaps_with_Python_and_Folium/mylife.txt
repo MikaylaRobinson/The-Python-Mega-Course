@@ -1,0 +1,10 @@
+CITY,STATE,LAT,LON,STATEMENT,LIFEPERIOD
+Marengo,Ohio,40.400963,-82.811120,This was home,Childhood
+Seattle,Washington,47.645370,-122.334181,Our first date,With Brian
+Brooklyn,New York,40.686236,-73.941995,Our first apartment,With Brian
+Florence,Kentucky,39.006634,-84.652850,Where I was born,Childhood
+Delaware,Ohio,40.296303,-83.068035,Where I went to college,Education
+Marengo,Ohio,40.396000,-82.703583,Where I went to high school,Education
+Myrtle Beach,South Carolina,33.685726,-78.885013,My first trip to the beach,Vacation
+Chicago,Illinois,41.821703,-87.670190,My first roadtrip,Vacation
+Vancouver,British Columbia,49.275966,-123.115604,My first time out of the country,Vacation
