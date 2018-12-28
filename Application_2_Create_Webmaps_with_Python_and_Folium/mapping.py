@@ -40,5 +40,7 @@ for lati, longi, words, period in zip(lat, lon, info, stage):
 map.add_child(feat_group_locations)
 map.add_child(feat_group_states)
 map.add_child(folium.LayerControl())
+
+# Save the map to an html file
 map.save("Map1.html")
  
